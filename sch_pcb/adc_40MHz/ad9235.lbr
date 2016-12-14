@@ -98,39 +98,39 @@
 <wire x1="1.9" y1="2.3984" x2="2.3984" y2="1.9" width="0.2032" layer="51"/>
 <wire x1="-1.9" y1="-2.3984" x2="-2.3984" y2="-1.9" width="0.2032" layer="51"/>
 <circle x="-1.8" y="1.8" radius="0.1414" width="0.127" layer="21"/>
-<smd name="1" x="-2.375" y="1.75" dx="0.65" dy="0.27" layer="1" roundness="20" stop="no"/>
-<smd name="2" x="-2.375" y="1.25" dx="0.65" dy="0.27" layer="1" roundness="20" stop="no"/>
-<smd name="3" x="-2.375" y="0.75" dx="0.65" dy="0.27" layer="1" roundness="20" stop="no"/>
-<smd name="4" x="-2.375" y="0.25" dx="0.65" dy="0.27" layer="1" roundness="20" stop="no"/>
-<smd name="5" x="-2.375" y="-0.25" dx="0.65" dy="0.27" layer="1" roundness="20" stop="no"/>
-<smd name="6" x="-2.375" y="-0.75" dx="0.65" dy="0.27" layer="1" roundness="20" stop="no"/>
-<smd name="7" x="-2.375" y="-1.25" dx="0.65" dy="0.27" layer="1" roundness="20" stop="no"/>
-<smd name="8" x="-2.375" y="-1.75" dx="0.65" dy="0.27" layer="1" roundness="20" stop="no"/>
-<smd name="9" x="-1.75" y="-2.375" dx="0.27" dy="0.65" layer="1" roundness="20" stop="no"/>
-<smd name="10" x="-1.25" y="-2.375" dx="0.27" dy="0.65" layer="1" roundness="20" stop="no"/>
-<smd name="11" x="-0.75" y="-2.375" dx="0.27" dy="0.65" layer="1" roundness="20" stop="no"/>
-<smd name="12" x="-0.25" y="-2.375" dx="0.27" dy="0.65" layer="1" roundness="20" stop="no"/>
-<smd name="13" x="0.25" y="-2.375" dx="0.27" dy="0.65" layer="1" roundness="20" stop="no"/>
-<smd name="14" x="0.75" y="-2.375" dx="0.27" dy="0.65" layer="1" roundness="20" stop="no"/>
-<smd name="15" x="1.25" y="-2.375" dx="0.27" dy="0.65" layer="1" roundness="20" stop="no"/>
-<smd name="16" x="1.75" y="-2.375" dx="0.27" dy="0.65" layer="1" roundness="20" stop="no"/>
-<smd name="17" x="2.375" y="-1.75" dx="0.65" dy="0.27" layer="1" roundness="20" stop="no"/>
-<smd name="18" x="2.375" y="-1.25" dx="0.65" dy="0.27" layer="1" roundness="20" stop="no"/>
-<smd name="19" x="2.375" y="-0.75" dx="0.65" dy="0.27" layer="1" roundness="20" stop="no"/>
-<smd name="20" x="2.375" y="-0.25" dx="0.65" dy="0.27" layer="1" roundness="20" stop="no"/>
-<smd name="21" x="2.375" y="0.25" dx="0.65" dy="0.27" layer="1" roundness="20" stop="no"/>
-<smd name="22" x="2.375" y="0.75" dx="0.65" dy="0.27" layer="1" roundness="20" stop="no"/>
-<smd name="23" x="2.375" y="1.25" dx="0.65" dy="0.27" layer="1" roundness="20" stop="no"/>
-<smd name="25" x="1.75" y="2.375" dx="0.27" dy="0.65" layer="1" roundness="20" stop="no"/>
-<smd name="26" x="1.25" y="2.375" dx="0.27" dy="0.65" layer="1" roundness="20" stop="no"/>
-<smd name="27" x="0.75" y="2.375" dx="0.27" dy="0.65" layer="1" roundness="20" stop="no"/>
-<smd name="28" x="0.25" y="2.375" dx="0.27" dy="0.65" layer="1" roundness="20" stop="no"/>
-<smd name="29" x="-0.25" y="2.375" dx="0.27" dy="0.65" layer="1" roundness="20" stop="no"/>
-<smd name="30" x="-0.75" y="2.375" dx="0.27" dy="0.65" layer="1" roundness="20" stop="no"/>
-<smd name="31" x="-1.25" y="2.375" dx="0.27" dy="0.65" layer="1" roundness="20" stop="no"/>
-<smd name="32" x="-1.75" y="2.375" dx="0.27" dy="0.65" layer="1" roundness="20" stop="no"/>
-<smd name="24" x="2.375" y="1.75" dx="0.65" dy="0.27" layer="1" roundness="20" stop="no"/>
-<smd name="EXP" x="0" y="0" dx="3.25" dy="3.25" layer="1" roundness="5" stop="no"/>
+<smd name="1" x="-2.375" y="1.75" dx="0.65" dy="0.27" layer="1" roundness="20"/>
+<smd name="2" x="-2.375" y="1.25" dx="0.65" dy="0.27" layer="1" roundness="20"/>
+<smd name="3" x="-2.375" y="0.75" dx="0.65" dy="0.27" layer="1" roundness="20"/>
+<smd name="4" x="-2.375" y="0.25" dx="0.65" dy="0.27" layer="1" roundness="20"/>
+<smd name="5" x="-2.375" y="-0.25" dx="0.65" dy="0.27" layer="1" roundness="20"/>
+<smd name="6" x="-2.375" y="-0.75" dx="0.65" dy="0.27" layer="1" roundness="20"/>
+<smd name="7" x="-2.375" y="-1.25" dx="0.65" dy="0.27" layer="1" roundness="20"/>
+<smd name="8" x="-2.375" y="-1.75" dx="0.65" dy="0.27" layer="1" roundness="20"/>
+<smd name="9" x="-1.75" y="-2.375" dx="0.27" dy="0.65" layer="1" roundness="20"/>
+<smd name="10" x="-1.25" y="-2.375" dx="0.27" dy="0.65" layer="1" roundness="20"/>
+<smd name="11" x="-0.75" y="-2.375" dx="0.27" dy="0.65" layer="1" roundness="20"/>
+<smd name="12" x="-0.25" y="-2.375" dx="0.27" dy="0.65" layer="1" roundness="20"/>
+<smd name="13" x="0.25" y="-2.375" dx="0.27" dy="0.65" layer="1" roundness="20"/>
+<smd name="14" x="0.75" y="-2.375" dx="0.27" dy="0.65" layer="1" roundness="20"/>
+<smd name="15" x="1.25" y="-2.375" dx="0.27" dy="0.65" layer="1" roundness="20"/>
+<smd name="16" x="1.75" y="-2.375" dx="0.27" dy="0.65" layer="1" roundness="20"/>
+<smd name="17" x="2.375" y="-1.75" dx="0.65" dy="0.27" layer="1" roundness="20"/>
+<smd name="18" x="2.375" y="-1.25" dx="0.65" dy="0.27" layer="1" roundness="20"/>
+<smd name="19" x="2.375" y="-0.75" dx="0.65" dy="0.27" layer="1" roundness="20"/>
+<smd name="20" x="2.375" y="-0.25" dx="0.65" dy="0.27" layer="1" roundness="20"/>
+<smd name="21" x="2.375" y="0.25" dx="0.65" dy="0.27" layer="1" roundness="20"/>
+<smd name="22" x="2.375" y="0.75" dx="0.65" dy="0.27" layer="1" roundness="20"/>
+<smd name="23" x="2.375" y="1.25" dx="0.65" dy="0.27" layer="1" roundness="20"/>
+<smd name="25" x="1.75" y="2.375" dx="0.27" dy="0.65" layer="1" roundness="20"/>
+<smd name="26" x="1.25" y="2.375" dx="0.27" dy="0.65" layer="1" roundness="20"/>
+<smd name="27" x="0.75" y="2.375" dx="0.27" dy="0.65" layer="1" roundness="20"/>
+<smd name="28" x="0.25" y="2.375" dx="0.27" dy="0.65" layer="1" roundness="20"/>
+<smd name="29" x="-0.25" y="2.375" dx="0.27" dy="0.65" layer="1" roundness="20"/>
+<smd name="30" x="-0.75" y="2.375" dx="0.27" dy="0.65" layer="1" roundness="20"/>
+<smd name="31" x="-1.25" y="2.375" dx="0.27" dy="0.65" layer="1" roundness="20"/>
+<smd name="32" x="-1.75" y="2.375" dx="0.27" dy="0.65" layer="1" roundness="20"/>
+<smd name="24" x="2.375" y="1.75" dx="0.65" dy="0.27" layer="1" roundness="20"/>
+<smd name="EXP" x="0" y="0" dx="3.25" dy="3.25" layer="1" roundness="5"/>
 <text x="-2.5" y="3.1" size="0.6096" layer="25">&gt;NAME</text>
 <text x="-2.6" y="-3.7" size="0.6096" layer="27">&gt;VALUE</text>
 </package>
