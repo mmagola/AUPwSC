@@ -11242,8 +11242,8 @@ Source: AVX .. aphvc.pdf</description>
 </classes>
 <parts>
 <part name="FRAME1" library="frames" deviceset="A3L-LOC" device=""/>
-<part name="R3" library="rcl" deviceset="R-EU_" device="R0603" value="40"/>
-<part name="R4" library="rcl" deviceset="R-EU_" device="R0603" value="40"/>
+<part name="R3" library="rcl" deviceset="R-EU_" device="R0603" value="40R"/>
+<part name="R4" library="rcl" deviceset="R-EU_" device="R0603" value="40R"/>
 <part name="R5" library="rcl" deviceset="R-EU_" device="R0603" value="2.4k"/>
 <part name="C5" library="resistor" deviceset="C-EU" device="C0603K" value="100n"/>
 <part name="C7" library="resistor" deviceset="C-EU" device="C0603K" value="51p"/>
@@ -11309,7 +11309,7 @@ Source: AVX .. aphvc.pdf</description>
 <part name="R21" library="rcl" deviceset="R-EU_" device="R0603" value="100R"/>
 <part name="R11" library="rcl" deviceset="R-EU_" device="R0603" value="20k"/>
 <part name="R12" library="rcl" deviceset="R-EU_" device="R0603" value="10k"/>
-<part name="R1" library="rcl" deviceset="R-EU_" device="R0603" value="430"/>
+<part name="R1" library="rcl" deviceset="R-EU_" device="R0603" value="430R"/>
 <part name="C1" library="resistor" deviceset="C-EU" device="C0603K" value="20p"/>
 <part name="C2" library="resistor" deviceset="C-EU" device="C0603K" value="5p"/>
 <part name="GND30" library="supply1" deviceset="GND" device=""/>
